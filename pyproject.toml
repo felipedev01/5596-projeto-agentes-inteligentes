@@ -1,0 +1,20 @@
+[project]
+name = "code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "langchain>=1.2.7",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.7",
+    "langchain-groq>=1.1.1",
+    "langchain-huggingface>=1.2.0",
+    "langgraph-api>=0.7.9",
+    "langgraph-cli>=0.4.12",
+    "pypdf>=6.6.2",
+    "python-dotenv>=1.2.1",
+    "rich>=14.3.1",
+    "sentence-transformers>=5.2.2",
+]

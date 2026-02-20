@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Ana Paula Souza",
+    "numeroCadastro": "C001",
+    "saldoPontos": 1250
+  },
+  {
+    "nome": "Bruno Henrique Lima",
+    "numeroCadastro": "C002",
+    "saldoPontos": 340
+  },
+  {
+    "nome": "Carla Mendes Rocha",
+    "numeroCadastro": "C003",
+    "saldoPontos": 2890
+  },
+  {
+    "nome": "Diego Fernandes Alves",
+    "numeroCadastro": "C004",
+    "saldoPontos": 760
+  },
+  {
+    "nome": "Eduarda Nunes Costa",
+    "numeroCadastro": "C005",
+    "saldoPontos": 1540
+  },
+  {
+    "nome": "Felipe Martins Ribeiro",
+    "numeroCadastro": "C006",
+    "saldoPontos": 95
+  },
+  {
+    "nome": "Gabriela Pacheco Silva",
+    "numeroCadastro": "C007",
+    "saldoPontos": 4200
+  },
+  {
+    "nome": "Henrique Oliveira Santos",
+    "numeroCadastro": "C008",
+    "saldoPontos": 630
+  },
+  {
+    "nome": "Isabela Farias Teixeira",
+    "numeroCadastro": "C009",
+    "saldoPontos": 1875
+  },
+  {
+    "nome": "João Victor Barros",
+    "numeroCadastro": "C010",
+    "saldoPontos": 510
+  },
+  {
+    "nome": "João da Silva",
+    "numeroCadastro": "C011",
+    "saldoPontos": 988
+  },
+  {
+    "nome": "Alan Braz",
+    "numeroCadastro": "C012",
+    "saldoPontos": 1980
+  }
+]
