@@ -1,0 +1,65 @@
+Metadata-Version: 2.4
+Name: code
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: faiss-cpu>=1.13.2
+Requires-Dist: langchain>=1.2.7
+Requires-Dist: langchain-community>=0.4.1
+Requires-Dist: langchain-core>=1.2.7
+Requires-Dist: langchain-groq>=1.1.1
+Requires-Dist: langchain-huggingface>=1.2.0
+Requires-Dist: langgraph-api>=0.7.9
+Requires-Dist: langgraph-cli>=0.4.12
+Requires-Dist: pypdf>=6.6.2
+Requires-Dist: python-dotenv>=1.2.1
+Requires-Dist: rich>=14.3.1
+Requires-Dist: sentence-transformers>=5.2.2
+
+Python maior que 3.11
+
+Instalar uv
+
+powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+$env:Path = "C:\Users\adria\.local\bin;$env:Path"
+
+uv venv .venv
+
+.venv\Scripts\activate
+
+uv init
+
+uv add python-dotenv
+
+uv add rich
+
+
+
+
+
+
+01 apresentacao.mp4     08m
+02 ambiente.mp4         10m
+03 llm.mp4              11m
+04 setup langsmith.mp4  08m
+05 chain.mp4            10m
+06 rag index.mp4        11m
+07 rag index embed.mp4  7m
+08 rag chain.mp4        12m
+09 rag tool.mp4                 7m
+10 langgraph simples.mp4        18m
+11 agent tool.mp4               16m
+12 memoria.mp4                  15m
+13 create agent.mp4             13m
+14 ui studio monitor final.mp4  10m
+
+
+---
+77 minutos - Equivale a 1 hora e 17 minutos.
+
+
+Total: 156 minutos.
+
+Soma de todos os vídeos = 156 min, o que equivale a 2 horas e 36 minutos
